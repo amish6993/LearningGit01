@@ -1,2 +1,3 @@
 LearningGit - file 1
 TESTCHANGESTOFILE1
+amend test
