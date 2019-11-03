@@ -1,1 +1,6 @@
 LearningGit - file 1
+<<<<<<< HEAD
+=======
+TESTCHANGESTOFILE1
+amend test
+>>>>>>> 5ced4d368e5f6739ca54ca42de833457841e4126
